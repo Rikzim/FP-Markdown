@@ -15,4 +15,4 @@ Henrik Dambros
 
 > Metodologias de Desenvolvimento de Software &copy; 2020
 
-![ipleiria](imgs/1.png)
+![ipleiria](imgs/cat-meme.gif)
